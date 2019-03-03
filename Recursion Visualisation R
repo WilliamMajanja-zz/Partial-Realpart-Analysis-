@@ -1,6 +1,6 @@
 #!/bin/bash
-#this is R code 
-#recursion library 
+##this is R code 
+##recursion library 
 area <- function(f, a, b, ..., limit=10, eps=1e-5) {
 +     area2 <- function(f, a, b, ..., fa = f(a, ...), fb = f(b, ...),
 + 		      limit = limit, eps = eps) {
