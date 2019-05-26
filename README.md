@@ -3,9 +3,13 @@ An attempt at using the universal set theory &amp;&amp; Computational Intelligen
 
 
 # Usage 
-Libre Office Math to open the .odf file 
+Libre Office Math to open the .math file 
 
 
-# Maintained by 1nf1corp LLp.
-# Written by 1nf1D3L(1nf1del)
+# Use Cases
+ ##Banking 
+ ##Data Segmentation
+ ##Math
+ ##Data Compression 
+ ##Data Visualisation
 
